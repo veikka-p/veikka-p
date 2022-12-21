@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently studying ICT.
+:books: I’m currently studying ICT.
 
 ![](https://komarev.com/ghpvc/?username=veikka-p&color=blue)
 
