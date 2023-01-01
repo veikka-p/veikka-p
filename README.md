@@ -1,7 +1,6 @@
 # Hi there!
 ## :books: I’m currently studying ICT.
 
-![](https://komarev.com/ghpvc/?username=veikka-p&color=blue)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theveikkaa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VPuolitaival) 
