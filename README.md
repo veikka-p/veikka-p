@@ -12,8 +12,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=veikka-p&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veikka-p&theme=tokyonight)](https://github.com/veikka-p/github-readme-stats)
-
 
 
 <!-- ( https://gprm.itsvg.in ) -->
