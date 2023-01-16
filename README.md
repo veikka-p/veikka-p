@@ -13,6 +13,6 @@
 [![](https://visitcount.itsvg.in/api?id=veikka-p&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-[![Top Langs]([https://readme-stat-nine.vercel.app/api/top-langs/?username=veikka-p&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stat-nine.vercel.app/api/top-langs/?username=veikka-p&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ( https://gprm.itsvg.in ) -->
